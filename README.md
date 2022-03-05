@@ -1,4 +1,4 @@
-# Tik-Tac-Toe Game
+# Tik-Tac-Toe Game:
 
 This game is built using Python PyGame.
 The UI of the game is shown below:
